@@ -1,0 +1,5 @@
+{
+  "name": "Stanley Cafeteria",
+  "description": "An AI-powered restaurant chatbot for customer orders and delivery, featuring a comprehensive admin panel for menu management, order approval, content updates, and chatbot configuration.",
+  "requestFramePermissions": []
+}
